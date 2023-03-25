@@ -141,9 +141,6 @@ void display_board(char *player1, char *player2)    // display the game board
     }
   
     printf("\n\n\n\n\n");
-  
-  
-    printf("\n\n\n\n\n");
 
     printf(PURPLE"------------T I C  -  T A C  -  T O E ---------------\n\n\n"RESET);
 }
